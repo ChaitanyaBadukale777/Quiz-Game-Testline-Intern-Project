@@ -2,9 +2,11 @@ Quiz Application with Gamification
 
 
 This project is an interactive web-based quiz application designed to test users' knowledge in biology with engaging and modern design elements. The application features a series of questions, dynamic score tracking, and informative solutions. The design includes plant-themed visuals and animations to provide a visually pleasing experience aligned with the biology topic.
+
 ## Features
 
 - Interactive Quiz: Questions with multiple-choice answers and immediate feedback.
+- Fireworks Animation on correct answers.
 - Solution Display: Option to reveal detailed solutions after selecting an answer.
 - Timer Integration: Countdown timer for each question.
 - Gamification: Score calculation based on correct and incorrect answers.
