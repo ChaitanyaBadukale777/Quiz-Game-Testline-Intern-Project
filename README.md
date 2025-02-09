@@ -1,33 +1,53 @@
-Introduction
+Quiz Application with Gamification
+
 
 This project is an interactive web-based quiz application designed to test users' knowledge in biology with engaging and modern design elements. The application features a series of questions, dynamic score tracking, and informative solutions. The design includes plant-themed visuals and animations to provide a visually pleasing experience aligned with the biology topic.
+## Features
 
-Features
-
-Interactive Quiz: Questions with multiple-choice answers and immediate feedback.
-
-Solution Display: Option to reveal detailed solutions after selecting an answer.
-
-Timer Integration: Countdown timer for each question.
-
-Navigation: Next and previous buttons to navigate between questions.
-
-Gamification: Score calculation based on correct and incorrect answers.
-
-Themed Background: Animated plant visuals for a modern and engaging background.
-
-Tech Stack
-
-Frontend: React.js
-
-Styling: CSS with modern design principles
-
-API: JSON-based mock API for question data
-
-External Resources: Transparent textures and animations for visual effects
+- Interactive Quiz: Questions with multiple-choice answers and immediate feedback.
+- Solution Display: Option to reveal detailed solutions after selecting an answer.
+- Timer Integration: Countdown timer for each question.
+- Gamification: Score calculation based on correct and incorrect answers.
 
 
-Working
+## Tech Stack
+
+**Frontend:** React.js
+
+**Server:** Node
+
+**API:** JSON-based mock API for question data
+
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://link-to-project
+```
+
+Go to the project directory
+
+```bash
+  cd my-project
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run start
+```
+
+
+## Working
+
 
 Landing Page: Displays a welcoming interface with the title of the quiz application.
 
@@ -49,16 +69,6 @@ Interactive Design:
 
 Modern plant-themed background with falling leaf animations.
 
-Future Enhancements
+## Credits
 
-Backend Integration: Connect with a real API for dynamic question fetching.
-
-User Authentication: Implement user login and leaderboard.
-
-Dynamic Categories: Add support for multiple quiz categories.
-
-Credits
-
-Developer: [Your Name]
-
-Design Resources: Transparent Textures and community graphics
+- Developer: Chaitanya Badukale
